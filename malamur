@@ -23,409 +23,276 @@ async function enviarScript(scriptText){
 }
 
 enviarScript(`
-o arthur manja rola
-manja muito
+searchig IP's
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
-o arthur manja rola
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+output 3 IP's found/location found
+USER:Livia A. 10.4.22/Brail,São Paulo,Jaboticabal
+USER:Matheus B. 10.8.82/Brail,São Paulo,Jaboticabal
+USER:Lucas B. 10.8.82/Brail,São Paulo,Jaboticabal
+.
+.
+.
+.
+.
+Plataform: WhatsApp
+VPN: None
+DDoX attack_!: comfirmed
+AN0N1MAL_65: Out
 
 `).then(e => console.log(`Código finalizado, ${e} mensagens enviadas`)).catch(console.error)
